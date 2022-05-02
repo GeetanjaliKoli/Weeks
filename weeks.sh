@@ -14,3 +14,6 @@ Wednesday
 
 Day 5
 Thursday
+
+Day 6
+Friday
