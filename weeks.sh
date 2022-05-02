@@ -17,3 +17,6 @@ Thursday
 
 Day 6
 Friday
+
+Day 7
+Saturday
